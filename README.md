@@ -79,7 +79,7 @@ The application allows users to:
 * Interactive user interface.
 * Display of churn probability.
 
-!\[Streamlit Dashboard Screenshot]\(./Streamlit Application.png)
+![Streamlit Dashboard Screenshot](Streamlit_application.png)
 
 ---
 
